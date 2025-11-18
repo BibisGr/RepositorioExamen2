@@ -1,137 +1,77 @@
-# ⭐ HERO (Sección principal)
+HERO (Sección principal)
 
-### **Título principal:**
+Título principal:
+Transforma tu Vida y tu Relación con la Comida
 
-Descubre el Sabor Auténtico de España
+Primer párrafo:
+Te acompaño a recuperar tu bienestar físico, emocional y mental a través de hábitos saludables y coaching personalizado.
 
-### **Primer párrafo:**
+Segundo párrafo:
+Empieza hoy tu camino hacia una vida más consciente, equilibrada y plena.
 
-Te invitamos a disfrutar de la verdadera cocina tradicional española, elaborada con ingredientes frescos y recetas que han pasado de generación en generación.
-
-### **Segundo párrafo:**
-
-Vive una experiencia culinaria única: sabores que inspiran, aromas que enamoran y platos que te harán sentir como en casa.
-
-### **Botón CTA:**
-
-Reserva tu Mesa
-
----
-
-# ⭐ SUBHEADING (Subtítulo inspirador)
-
-### **Título:**
-
-¿Te apetece saborear la esencia de España?
-
-### **Texto:**
-
-Si buscas un lugar donde disfrutar de platos caseros, auténticos y llenos de tradición, este es tu sitio. En nuestro restaurante cuidamos cada detalle para ofrecerte una experiencia gastronómica cercana, deliciosa y memorable.
-
----
-
-# ⭐ INTRODUCCIÓN / SOBRE NOSOTROS
-
-### **Título:**
-
-Bienvenido a Nuestra Cocina
-
-### **Texto:**
-
-Somos un restaurante dedicado a preservar y compartir la riqueza de la gastronomía española. Nuestro equipo combina pasión, técnica y tradición para preparar cada plato con el cariño de siempre. Queremos que te sientas como en casa mientras disfrutas de sabores que te acompañarán mucho después de la última cucharada.
-
-### **Botón / Enlace:**
-
-Conócenos
-
----
-
-# ⭐ SERVICIOS
-
-### **Servicio 1 — Menú Tradicional Español**
-
-Platos clásicos como paella, cocido, tortilla de patatas y guisos caseros preparados al estilo de siempre.
-
-### **Servicio 2 — Tapas y Raciones**
-
-Una selección de tapas variadas: jamón ibérico, croquetas caseras, calamares, patatas bravas y mucho más.
-
-### **Servicio 3 — Experiencia Gastronómica Completa**
-
-Un recorrido culinario por los sabores más emblemáticos de España, ideal para comidas especiales y encuentros en familia.
-
----
-
-# ⭐  Tabla de menus
+Botón CTA:
+Agenda tu Sesión
 
 
-Menú 1 – Tradicional
-Entrante: Ensalada mixta
-Plato Principal: Paella de marisco
-Postre: Flan casero
-Bebida: Agua o Refresco
-Precio: €12,50
--------------------------
-Menú 2 – Casa
-Entrante: Sopa de cocido
-Plato Principal: Pollo al ajillo con patatas
-Postre: Fruta del día
-Bebida: Agua o Refresco
-Precio: €11,00
--------------------------
-Menú 3 – Vegetariano
-Entrante: Gazpacho
-Plato Principal: Pisto manchego con huevo
-Postre: Yogur natural
-Bebida: Agua o Refresco
-Precio: €10,50
--------------------------
-Menú 4 – Especial
-Entrante: Croquetas caseras
-Plato Principal: Lomo de cerdo a la plancha con verduras
-Postre: Natillas
-Bebida: Agua, Refresco o Vino
-Precio: €14,00
--------------------------
-Menú 5 – Infantil
-Entrante: Tortilla de patatas
-Plato Principal: Nuggets de pollo con patatas fritas
-Postre: Helado
-Bebida: Agua o Refresco
-Precio: €8,50
--------------------------
+SUBHEADING (Subtítulo inspirador)
 
+Título:
+¿Te sientes cansada, estancada o desconectada?
 
-# ⭐ TESTIMONIOS / SOCIAL PROOF
+Texto:
+Si estás buscando cambiar tu estilo de vida, mejorar tu autoestima, crear hábitos saludables o sanar tu relación con la comida, estás en el lugar adecuado. Te guiaré paso a paso con un método práctico y humano para que logres resultados reales y duraderos.INTRODUCCIÓN / SOBRE MÍ
 
-### **Título:**
+Título:
+Hola, soy tu Coach
 
-Opiniones de Nuestros Clientes
+Texto:
+Ayudo a mujeres a alcanzar una vida más saludable y equilibrada mediante un enfoque integral: mente, cuerpo y emociones. Juntas trabajaremos tu motivación, tus hábitos diarios y tu bienestar general para que vivas con más energía, claridad y alegría.
 
-**Texto 1:**
-“Un sitio maravilloso. La comida sabe a hogar y a tradición. ¡Volveremos sin duda!” — Laura
+Botón / Enlace:
+Conóceme
 
-**Texto 2:**
-“La mejor paella que he probado en mucho tiempo. Atención excelente y ambiente muy acogedor.” — Elena
+SERVICIOS
+Servicio 1 — Coaching de Vida
 
-**Texto 3:**
-“Las tapas estaban increíbles. Calidad, sabor y un servicio impecable.” — Miriam
+Sesiones personalizadas para mejorar tu autoestima, gestionar tus emociones y crear un propósito claro.
 
-**Texto 4:**
-“Se nota el cariño con el que cocinan. Todo riquísimo y muy auténtico.” — Sofía
+Servicio 2 — Plan de Alimentación Consciente
 
-**Texto 5:**
-“Desde que entras huele a comida de verdad. Gran experiencia gastronómica.” — Ana
+Aprende a nutrirte de forma equilibrada, rompiendo ciclos de ansiedad, culpa o dietas restrictivas.
 
-**Texto 6:**
-“El menú degustación fue espectacular. Platos tradicionales hechos con alma.” — Carla
+Servicio 3 — Acompañamiento Integral
 
----
+Programa completo que combina hábitos, mindset, movimiento y alimentación para una transformación profunda.
 
-# ⭐ FOOTER
+TESTIMONIOS / SOCIAL PROOF
 
-### **Columna derecha:**
+Título:
+Testimonios
+
+Texto 1:
+“Gracias a este programa recuperé mi energía, bajé de peso sin dietas y aprendí a escuchar mi cuerpo.” — Laura
+
+Texto 2:
+“Nunca pensé que pudiera volver a sentirme así de bien conmigo misma. ¡Gracias por guiarme!” — Elena
+
+Texto 3:
+“Me ayudaste a entender mis emociones y a dejar de comer por ansiedad. Hoy me siento más ligera, más segura y más en paz.” — Miriam
+
+Texto 4:
+“Lo que más valoro es que aprendí a cuidarme sin presión ni culpa. Mis hábitos han cambiado para siempre.” — Sofía
+
+Texto 5:
+“Desde la primera sesión sentí claridad. Por fin tengo una rutina saludable que disfruto y que puedo sostener.” — Ana
+
+Texto 6:
+“Este proceso no solo transformó mi alimentación, también mi manera de hablarme y mi motivación diaria.” — Carla
+
+FOOTER
+
+Columna derecha:
 
 Instagram
-Email: [contacto@restaurantesabor.es](mailto:contacto@restaurantesabor.es)
+
+Email: contacto@coachingvida.com
+
 Madrid, España
